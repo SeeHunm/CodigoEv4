@@ -1,0 +1,13 @@
+[
+ {
+ "run": "14141414-9",
+ "nombre": "Estephania",
+ "apellido": "Montenegro",
+ "direccion": "Inacap",
+ "fono": 996550786,
+ "correo":"estephania.montenegro@inacapmail.cl",
+ "montoCredito": 505050,
+ "deuda":606060,
+ "tipo": 3
+ }
+]
